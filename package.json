@@ -1,0 +1,35 @@
+{
+  "name": "code_cademy",
+  "version": "1.0.0",
+  "description": "code cademy",
+  "main": "1.js",
+  "dependencies": {
+    "eslint": "^6.5.1",
+    "standard": "^14.3.1",
+    "typescript": "^3.6.4"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.3.3",
+    "@typescript-eslint/parser": "^2.3.3",
+    "eslint": "^6.5.1",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-node": "^10.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corbin-boonzaier/code_cademy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/corbin-boonzaier/code_cademy/issues"
+  },
+  "homepage": "https://github.com/corbin-boonzaier/code_cademy#readme"
+}
